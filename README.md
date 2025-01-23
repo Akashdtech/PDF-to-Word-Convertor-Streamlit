@@ -23,9 +23,7 @@ Setup:
 
 Running the Application:
 
-    Run the app locally with:
-
-streamlit run app.py
+    Run the app locally with: streamlit run app.py
 
 Use localtunnel to share the app online:
 
