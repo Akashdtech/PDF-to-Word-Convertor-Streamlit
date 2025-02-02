@@ -1,5 +1,6 @@
 # PDF-to-Word-Convertor-Streamlit
 This project provides a PDF to Word Converter web application, built using Streamlit. It allows users to upload a PDF file, extracts the text from the document, and converts it into a downloadable Word document.
+
 Features:
 
     Upload Functionality: Users can upload a PDF file for conversion.
@@ -13,12 +14,9 @@ Requirements:
     PyPDF2 - For reading and extracting text from PDF files.
     python-docx - For creating Word documents.
 
-Setup:
-
-    Install the required packages:
+Install the required packages:
 
     pip install streamlit PyPDF2 python-docx
-
     Save the provided code into a file named app.py.
 
 Running the Application:
