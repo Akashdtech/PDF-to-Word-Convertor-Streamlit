@@ -1,0 +1,31 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+.DS_Store
+*.log
+
+# Ignore input and output files
+input_pdfs/
+output_docs/
+
+# Ignore Streamlit config and credentials
+.streamlit/
+credentials.toml
+
+# Ignore localtunnel password file
+loca.lt/mytunnelpassword
+
+# Ignore data files if any
+*.csv
+*.tsv
+*.json
+*.pickle
+
+# Ignore unnecessary image and document files 
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.xlsx
+*.pptx
